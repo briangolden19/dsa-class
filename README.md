@@ -1,1 +1,5 @@
-# dsa-class
+# This course was designed to understand how different data structures can be used for the same problem. It highlights the differences in each and how runtime and memory or effected.
+# I approached this by looking at how each was implimented and how it runs. Some, like the vector, have easy impliemntation but are more difficult and memory intesive to sort or search. Others, like the hash table, have really easy inserting and searching but are not easy to sort at all.
+# I did not have any roadblocks to overcome.
+# This project introduced me to how many differnt ways the same problem could be addressed, having different runtimes and memory usage. This project showed me that the easiest data structure to program and setup might not be the best for long term or robust use. 
+# This project did help me understand that it is important to consider long term and expandable use. Before I would write code to solve the problem as fast as possible, but that might make it harder to maintain down the road. 
